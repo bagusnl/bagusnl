@@ -5,7 +5,7 @@
 
 - 🤔 Usually does bug reports and some simple documentation checks
 - 🌱 I’m currently learning C#/WinUI
-- ⚡ Fun fact: I'm actually in Chemistry major!
+- ⚡ Fun fact: I'm actually a Chemistry undegraduate student!
 
 ### Connect with me:
 [<img align="left" alt="bagusnl | Twitter" width="40px" src="https://abs.twimg.com/favicons/twitter.2.ico" />][twitter]

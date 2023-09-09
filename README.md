@@ -8,7 +8,9 @@
 - ⚡ Fun fact: I'm actually a Chemistry undegraduate student!
 
 ### Connect with me:
-[<img align="left" alt="bagusnl | Twitter" width="40px" src="https://abs.twimg.com/favicons/twitter.2.ico" />][twitter]
+[<img align="left" alt="bagusnl | Twitter" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />][twitter]
+[<img align="left" alt="bagusnl | LinkedIn" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+<br/>
 <br/>
 
 ### Language/Tools
@@ -17,8 +19,9 @@
 ### GitHub Statistics
 ![bagusnl's Stats](https://github-readme-stats.vercel.app/api?username=bagusnl&theme=synthwave&show_icons=true&hide_border=false&count_private=true) ![bagusnl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagusnl&theme=synthwave&hide_border=false)
 
-
+<!-- Defines -->
 [twitter]: https://twitter.com/bagusnl
+[linkedin]: https://www.linkedin.com/in/bagusnl
 <!--
 **bagusnl/bagusnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
